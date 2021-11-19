@@ -3,4 +3,13 @@ class account {
     string name;
     string age;
 
+
+    public void ShowName(){
+        //code;
+    }
+
+    public void ShowAge(){
+        //code;
+    }
+
 }
