@@ -1,0 +1,6 @@
+class account { 
+
+    string name;
+    string age;
+
+}
