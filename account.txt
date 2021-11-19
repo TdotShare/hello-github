@@ -8,4 +8,8 @@ class account {
         //code;
     }
 
+    public void ShowAge(){
+        //code;
+    }
+
 }
