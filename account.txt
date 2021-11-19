@@ -12,7 +12,7 @@ class account {
         //code;
     }
 
-    public void Runn(){
+    public void Run(){
         //code;
     }
 
